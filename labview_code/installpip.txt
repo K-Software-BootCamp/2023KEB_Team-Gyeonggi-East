@@ -1,0 +1,15 @@
+파이썬에서
+
+pip install tensorflow
+
+pip install opencv-python
+
+(pip install pillow)
+
+또는 로컬에 설치하고 싶다면 cmd를 실행 후
+
+python -m pip install tensorflow
+
+python -m pip install opencv-python
+
+(python -m pip install pillow)
